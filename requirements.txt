@@ -1,0 +1,5 @@
+ruff
+ucimlrepo
+certifi
+pandas
+mysql-connector-python
